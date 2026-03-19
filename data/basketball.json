@@ -1,0 +1,41 @@
+[
+  {
+    "id": "mbk-001",
+    "sport": "Men's Basketball",
+    "opponent": "TBD Non-Conference",
+    "date": "2026-11-15",
+    "time": "7:00 PM CT",
+    "venue": "Fertitta Center",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/ATH",
+    "priceRange": "$15 – $60",
+    "notes": "Non-Conference single-game tickets on sale Sept 17"
+  },
+  {
+    "id": "mbk-002",
+    "sport": "Men's Basketball",
+    "opponent": "TBD Big 12",
+    "date": "2027-01-10",
+    "time": "3:00 PM CT",
+    "venue": "Fertitta Center",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/ATH",
+    "priceRange": "$20 – $75",
+    "notes": "Big 12 single-game tickets on sale Oct 8"
+  },
+  {
+    "id": "wbk-001",
+    "sport": "Women's Basketball",
+    "opponent": "TBD Non-Conference",
+    "date": "2026-11-20",
+    "time": "6:00 PM CT",
+    "venue": "Fertitta Center",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/ATH",
+    "priceRange": "$10 – $40",
+    "notes": ""
+  }
+]

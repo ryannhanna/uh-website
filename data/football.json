@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fb-001",
+    "opponent": "Oregon State",
+    "date": "2026-09-05",
+    "time": "6:00 PM CT",
+    "venue": "TDECU Stadium",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/FB",
+    "priceRange": "$25 – $85",
+    "notes": "Season opener — wear red!"
+  },
+  {
+    "id": "fb-002",
+    "opponent": "Southern",
+    "date": "2026-09-12",
+    "time": "2:30 PM CT",
+    "venue": "TDECU Stadium",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/FB",
+    "priceRange": "$20 – $65",
+    "notes": ""
+  },
+  {
+    "id": "fb-003",
+    "opponent": "Baylor",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "venue": "TDECU Stadium",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/FB",
+    "priceRange": "$30 – $95",
+    "notes": "Big 12 Conference Game"
+  },
+  {
+    "id": "fb-004",
+    "opponent": "Oklahoma State",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "venue": "TDECU Stadium",
+    "isHome": true,
+    "ticketsAvailable": false,
+    "ticketUrl": "https://uh.evenue.net/list/FB",
+    "priceRange": "Sold Out",
+    "notes": "Big 12 Conference Game"
+  },
+  {
+    "id": "fb-005",
+    "opponent": "Cincinnati",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "venue": "TDECU Stadium",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/FB",
+    "priceRange": "$25 – $80",
+    "notes": "Big 12 Conference Game"
+  },
+  {
+    "id": "fb-006",
+    "opponent": "UCF",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "venue": "TDECU Stadium",
+    "isHome": true,
+    "ticketsAvailable": true,
+    "ticketUrl": "https://uh.evenue.net/list/FB",
+    "priceRange": "$25 – $80",
+    "notes": "Senior Day"
+  }
+]
